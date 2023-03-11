@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:text="Select part you want to test"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/gl_limit_top"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toStartOf="@+id/gl_limit_left"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gl_limit_top">
+
+
+        <Button
+            android:id="@+id/btn_full_test"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Full"
+            android:textSize="13sp" />
+
+
+        <Button
+            android:id="@+id/btn_reading_test"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Reading"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/btn_listening_test"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Listening"
+            android:textSize="13sp" />
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout4"
+        app:layout_constraintEnd_toStartOf="@+id/gl_limit_right"
+        app:layout_constraintStart_toStartOf="@+id/gl_limit_left"
+        app:layout_constraintTop_toBottomOf="@+id/gl_limit_top">
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/cb_part_1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Part I" />
+
+            <CheckBox
+                android:id="@+id/cb_part_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Part II" />
+
+            <CheckBox
+                android:id="@+id/cb_part_3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Part III" />
+
+            <CheckBox
+                android:id="@+id/cb_part_4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Part IV" />
+
+            <CheckBox
+                android:id="@+id/cb_part_5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Part V" />
+
+            <CheckBox
+                android:id="@+id/cb_part_6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Part VI" />
+
+            <CheckBox
+                android:id="@+id/cb_part_7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Part VII" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/gl_limit_right"
+        app:layout_constraintStart_toStartOf="@+id/gl_limit_left">
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel" />
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/btn_agree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Agree" />
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_limit_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.7" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_limit_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.3" />
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_limit_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.15" />
+</androidx.constraintlayout.widget.ConstraintLayout>

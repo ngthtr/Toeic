@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/border.xml" value="0.1435" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/empty_tall_divider.xml" value="0.2255" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_array.xml" value="0.1575" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_back.xml" value="0.2255" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_forward.xml" value="0.1575" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_green_circle.xml" value="0.1575" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_next.xml" value="0.2255" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_pause.xml" value="0.133" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_play.xml" value="0.133" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_previous.xml" value="0.2255" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_red_circle.xml" value="0.1575" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_replay.xml" value="0.1575" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_seekbar.xml" value="0.194" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/drawable/ic_white_circle.xml" value="0.1575" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/activity_chart_answer.xml" value="0.25" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/activity_check_resource.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/activity_home.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/activity_test2.xml" value="0.10989583333333333" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/dialog_select_test.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/fragment_answer.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/fragment_question.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/item_answer.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/item_answer_listening.xml" value="0.22535211267605634" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/item_answer_reading.xml" value="0.33" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/item_chart_part.xml" value="0.2677083333333333" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/item_question.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/layout/item_test.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/xml/answer_ets_rc_22_01.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/xml/ets_rc_22_01.xml" value="0.12239583333333333" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/xml/file_answer.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/xml/file_audio.xml" value="0.1" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/xml/file_link.xml" value="0.26875" />
+        <entry key="..\:/LEARN_CODE/Android/Toeic/app/src/main/res/xml/file_name.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

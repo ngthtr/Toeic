@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parts>
+    <Part year="2022" test="1" part="1" type="q" file="ets_lc_22_01_q_p1" link="1y2ahbpNGvv2QnVxYc_bucCaD78iXoXmm"/>
+    <Part year="2022" test="1" part="2" type="q" file="ets_lc_22_01_q_p2" link="1d5tVZn-Lrh1jtT61wcGt9-RDHOmjP0Kn"/>
+    <Part year="2022" test="1" part="3" type="q" file="ets_lc_22_01_q_p3" link="18Q2OiwYjNDQp1EeKXqewLOwh_6calRZ3"/>
+    <Part year="2022" test="1" part="4" type="q" file="ets_lc_22_01_q_p4" link="1hGajYUexTmqjh8pJtHC5SVP7lwdu4bJs"/>
+    <Part year="2022" test="1" part="5" type="q" file="ets_rc_22_01_q_p5" link="1O9E33LNCivKUBwD5ZHJyRGascTEk5WRM"/>
+    <Part year="2022" test="1" part="6" type="q" file="ets_rc_22_01_q_p6" link="12FJhxDBkLp7VJXLD9ORp2raaLQlfa-zO"/>
+    <Part year="2022" test="1" part="7" type="q" file="ets_rc_22_01_q_p7" link="1gELcl4YT65zkh0BhbtrdT-CcAd5y4vTV"/>
+
+    <Part year="2022" test="2" part="1" type="q" file="ets_lc_22_02_q_p1" link="1Q3_LqSCMxslIf6X6BAQOcJSPyj9MXv7Y"/>
+    <Part year="2022" test="2" part="2" type="q" file="ets_lc_22_02_q_p2" link="1AANgolIMegF6KG9vMHVOwJw2XQzOBT7p"/>
+    <Part year="2022" test="2" part="3" type="q" file="ets_lc_22_02_q_p3" link="1dimSKatA0TjHhbshAMMbdORnaWJbM8Rq"/>
+    <Part year="2022" test="2" part="4" type="q" file="ets_lc_22_02_q_p4" link="148yQs8NHjbqWjUn9afiLGgw_1YCDM8X2"/>
+    <Part year="2022" test="2" part="5" type="q" file="ets_rc_22_02_q_p5" link="1V9Es8jK9g9U8DDOLEBZUBKAySLH2ZBuQ"/>
+    <Part year="2022" test="2" part="6" type="q" file="ets_rc_22_02_q_p6" link="16AkX9GOiZceWElqucWi3T7guhL1WF8BI"/>
+    <Part year="2022" test="2" part="7" type="q" file="ets_rc_22_02_q_p7" link="1BMaLV-LuLbBDP5RuGlDU3_A3wzqjZDaw"/>
+
+    <Part year="2022" test="3" part="1" type="q" file="ets_lc_22_03_q_p1" link="1hj2hTU-Yvm-vyBuevFyDRd9U46wu25z5"/>
+    <Part year="2022" test="3" part="2" type="q" file="ets_lc_22_03_q_p2" link="1OhpHe9sq3ze9rjQbZe5hJ-EoGZKT1gj9"/>
+    <Part year="2022" test="3" part="3" type="q" file="ets_lc_22_03_q_p3" link="1q65WAswy3juNOPJZ04AOJYklVvhFUXcZ"/>
+    <Part year="2022" test="3" part="4" type="q" file="ets_lc_22_03_q_p4" link="153UH2A4wvGMDx3mKUI3YEbn6ZSKnLsNK"/>
+    <Part year="2022" test="3" part="5" type="q" file="ets_rc_22_03_q_p5" link="1Enp3OSNH4K3GqTN5s1WzhDM_R4GSoGou"/>
+    <Part year="2022" test="3" part="6" type="q" file="ets_rc_22_03_q_p6" link="1MM3oHxTO-tuGRRoJ37bahx-11JkgRntF"/>
+    <Part year="2022" test="3" part="7" type="q" file="ets_rc_22_03_q_p7" link="1n8vP-ErsY5oVyzx2eEs_GRrYamg_Vliu"/>
+
+    <Part year="2022" test="4" part="1" type="q" file="ets_lc_22_04_q_p1" link="non"/>
+    <Part year="2022" test="4" part="2" type="q" file="ets_lc_22_04_q_p2" link="non"/>
+    <Part year="2022" test="4" part="3" type="q" file="ets_lc_22_04_q_p3" link="non"/>
+    <Part year="2022" test="4" part="4" type="q" file="ets_lc_22_04_q_p4" link="non"/>
+    <Part year="2022" test="4" part="5" type="q" file="ets_rc_22_04_q_p5" link="non"/>
+    <Part year="2022" test="4" part="6" type="q" file="ets_rc_22_04_q_p6" link="non"/>
+    <Part year="2022" test="4" part="7" type="q" file="ets_rc_22_04_q_p7" link="non"/>
+
+    <Part year="2022" test="5" part="1" type="q" file="ets_lc_22_05_q_p1" link="non"/>
+    <Part year="2022" test="5" part="2" type="q" file="ets_lc_22_05_q_p2" link="non"/>
+    <Part year="2022" test="5" part="3" type="q" file="ets_lc_22_05_q_p3" link="non"/>
+    <Part year="2022" test="5" part="4" type="q" file="ets_lc_22_05_q_p4" link="non"/>
+    <Part year="2022" test="5" part="5" type="q" file="ets_rc_22_05_q_p5" link="non"/>
+    <Part year="2022" test="5" part="6" type="q" file="ets_rc_22_05_q_p6" link="non"/>
+    <Part year="2022" test="5" part="7" type="q" file="ets_rc_22_05_q_p7" link="non"/>
+
+    <Part year="2022" test="6" part="1" type="q" file="ets_lc_22_06_q_p1" link="non"/>
+    <Part year="2022" test="6" part="2" type="q" file="ets_lc_22_06_q_p2" link="non"/>
+    <Part year="2022" test="6" part="3" type="q" file="ets_lc_22_06_q_p3" link="non"/>
+    <Part year="2022" test="6" part="4" type="q" file="ets_lc_22_06_q_p4" link="non"/>
+    <Part year="2022" test="6" part="5" type="q" file="ets_rc_22_06_q_p5" link="non"/>
+    <Part year="2022" test="6" part="6" type="q" file="ets_rc_22_06_q_p6" link="non"/>
+    <Part year="2022" test="6" part="7" type="q" file="ets_rc_22_06_q_p7" link="non"/>
+
+    <Part year="2022" test="7" part="1" type="q" file="ets_lc_22_07_q_p1" link="non"/>
+    <Part year="2022" test="7" part="2" type="q" file="ets_lc_22_07_q_p2" link="non"/>
+    <Part year="2022" test="7" part="3" type="q" file="ets_lc_22_07_q_p3" link="non"/>
+    <Part year="2022" test="7" part="4" type="q" file="ets_lc_22_07_q_p4" link="non"/>
+    <Part year="2022" test="7" part="5" type="q" file="ets_rc_22_07_q_p5" link="non"/>
+    <Part year="2022" test="7" part="6" type="q" file="ets_rc_22_07_q_p6" link="non"/>
+    <Part year="2022" test="7" part="7" type="q" file="ets_rc_22_07_q_p7" link="non"/>
+
+    <Part year="2022" test="8" part="1" type="q" file="ets_lc_22_08_q_p1" link="non"/>
+    <Part year="2022" test="8" part="2" type="q" file="ets_lc_22_08_q_p2" link="non"/>
+    <Part year="2022" test="8" part="3" type="q" file="ets_lc_22_08_q_p3" link="non"/>
+    <Part year="2022" test="8" part="4" type="q" file="ets_lc_22_08_q_p4" link="non"/>
+    <Part year="2022" test="8" part="5" type="q" file="ets_rc_22_08_q_p5" link="non"/>
+    <Part year="2022" test="8" part="6" type="q" file="ets_rc_22_08_q_p6" link="non"/>
+    <Part year="2022" test="8" part="7" type="q" file="ets_rc_22_08_q_p7" link="non"/>
+
+    <Part year="2022" test="9" part="1" type="q" file="ets_lc_22_09_q_p1" link="non"/>
+    <Part year="2022" test="9" part="2" type="q" file="ets_lc_22_09_q_p2" link="non"/>
+    <Part year="2022" test="9" part="3" type="q" file="ets_lc_22_09_q_p3" link="non"/>
+    <Part year="2022" test="9" part="4" type="q" file="ets_lc_22_09_q_p4" link="non"/>
+    <Part year="2022" test="9" part="5" type="q" file="ets_rc_22_09_q_p5" link="non"/>
+    <Part year="2022" test="9" part="6" type="q" file="ets_rc_22_09_q_p6" link="non"/>
+    <Part year="2022" test="9" part="7" type="q" file="ets_rc_22_09_q_p7" link="non"/>
+
+    <Part year="2022" test="10" part="1" type="q" file="ets_lc_22_10_q_p1" link="non"/>
+    <Part year="2022" test="10" part="2" type="q" file="ets_lc_22_10_q_p2" link="non"/>
+    <Part year="2022" test="10" part="3" type="q" file="ets_lc_22_10_q_p3" link="non"/>
+    <Part year="2022" test="10" part="4" type="q" file="ets_lc_22_10_q_p4" link="non"/>
+    <Part year="2022" test="10" part="5" type="q" file="ets_rc_22_10_q_p5" link="non"/>
+    <Part year="2022" test="10" part="6" type="q" file="ets_rc_22_10_q_p6" link="non"/>
+    <Part year="2022" test="10" part="7" type="q" file="ets_rc_22_10_q_p7" link="non"/>
+
+</Parts>
